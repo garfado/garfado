@@ -43,19 +43,6 @@ I'm a passionate Data Engineer from Brazil, always eager to turn raw data into a
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
-width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svgg" title="AWS" alt="Apache-Spark" width="40" height="40"/>&nbsp;
-    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  </p>
-</details>
-
-<details>
-  <summary>
-    ✨ Highlights
-  </summary>
-  <p>
-    TBD
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache-Spark" width="40" height="40"/>&nbsp;
   </p>
 </details>
