@@ -29,6 +29,8 @@ I'm a passionate Data Engineer from Brazil, always eager to turn raw data into a
 [![GitHub Streak](https://streak-stats.demolab.com?user=garfado&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58)](https://streak-stats.demolab.com?user=garfado)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesenbergg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<details/>
   
 <details>
   <summary>
