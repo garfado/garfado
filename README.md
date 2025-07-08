@@ -31,7 +31,6 @@ I'm a passionate Data Engineer from Brazil, always eager to turn raw data into a
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garfado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details/>
-  
 <details>
   <summary>
     🛠 &nbsp; Languages and Tools
