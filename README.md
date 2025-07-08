@@ -18,16 +18,16 @@
   
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Habbo hands typing keyboard" >
 
-I am a friendly Software Developer from Finland. I made a new year resolution for 2025 to code every day. Here is three random facts about me.
+I'm a passionate Data Engineer from Brazil, always eager to turn raw data into actionable insights and build robust data solutions.
 
-1. Passionate to discover and learn new tech.
-2. Interested in mastering AWS and UX.
-3. In my free time I listen audio books.
+1. Passionate about discovering and learning new technologies.
+2. Deeply interested in Big Data and advanced data processing techniques.
+
 
 <details>
   <summary>🔥 &nbsp; My Stats</summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wesenbergg&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58)](https://streak-stats.demolab.com?user=wesenbergg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=garfado&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58)](https://streak-stats.demolab.com?user=garfado)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesenbergg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
